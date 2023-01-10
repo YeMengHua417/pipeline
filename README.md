@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/bentleycs/China-iTwin/_apis/build/status/YeMengHua417.pipeline?branchName=main)](https://dev.azure.com/bentleycs/China-iTwin/_build/latest?definitionId=8629&branchName=main)
 ---
 page_type: sample
 languages:
